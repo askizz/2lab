@@ -11,6 +11,7 @@
         public string Ram { get; set; }
         public string Hdd { get; set; }
         public string Weight { get; set; }
+        public string com { get; set; }
 
         public Device()
         {
